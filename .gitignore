@@ -1,0 +1,14 @@
+.idea
+.claude
+.auth_state.json
+
+/outputs/
+/archive/*.jsonl
+
+convert_harvest.py
+harvest_console.js.template
+NEW_SCRAPE.md
+prepare_harvest.py
+PROMPTS.md
+requirements.txt
+scraper.py
