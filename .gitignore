@@ -4,6 +4,7 @@
 
 /outputs/
 /archive/*.jsonl
+/reports/
 
 convert_harvest.py
 harvest_console.js.template
